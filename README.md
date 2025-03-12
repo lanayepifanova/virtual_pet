@@ -25,9 +25,9 @@ This Chrome extension provides a simple virtual pet experience directly in your 
 
 ## Future Enhancements
 
-1. Animations: Use CSS animations or JavaScript to make your pet move.
-2. Different Pet Types: Allow users to choose different pets.
-3. More Interactions: Add more actions like cleaning, sleeping, etc.
-4. Notifications: Use chrome.notifications to notify users about their pet's status.
-5. Sound: add sound effects.
-6. Advanced Animations: Use canvas, or SVG animations.
+1.  ** Animations: Use CSS animations or JavaScript to make your pet move.**
+2.  ** Different Pet Types: Allow users to choose different pets.**
+3.  ** More Interactions: Add more actions like cleaning, sleeping, etc. **
+4.  ** Notifications: Use chrome.notifications to notify users about their pet's status. **
+5.  ** Sound: add sound effects. **
+6.  ** Advanced Animations: Use canvas, or SVG animations. **
