@@ -23,4 +23,3 @@ This Chrome extension provides a simple virtual pet experience directly in your 
 2.  **Interact with your pet using the "Feed" and "Play" buttons.**
 3.  **Monitor your pet's status using the displayed hunger and happiness levels.**
 
-## File Structure
